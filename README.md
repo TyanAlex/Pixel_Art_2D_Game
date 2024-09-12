@@ -1,2 +1,2 @@
 # Pixel_Art_2D_Game
-A pixel art 2d video game in Unity
+A pixel art 2D video game made in Unity
